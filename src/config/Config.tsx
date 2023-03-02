@@ -7,8 +7,8 @@ export const LOCATION = "Gadhinglaj, Maharashtra";
 export const CONTACT = [
     {
         "name": "Github",
-        "link": "https://github.com/Souru22",
-        "value": "github/Souru22",
+        "link": "https://github.com/sourabh-hodage",
+        "value": "github/sourabh-hodage",
         "icon": "",
         "margin": "32px"
     },
@@ -86,9 +86,9 @@ export const EDUCATION = [
 // F
 export const PROJECTS = [
     {
-        "title": "Linear Regression Model of Fish Data",
-        "url": "https://github.com/Souru22/-Linear-Regression-model-Fish-Weight/tree/main",
-        "github": "https://github.com/Souru22/-Linear-Regression-model-Fish-Weight/tree/main",
+        "title": "Loan Prediction Model by using Logistic Regression Model",
+        "url": "https://github.com/sourabh-hodage/Logistic-Regression-Model",
+        "github": "https://github.com/sourabh-hodage/Logistic-Regression-Model",
         "date": "June 2022",
         "technologies": [
             "Python",
@@ -101,17 +101,18 @@ export const PROJECTS = [
 
         ],
         "specs": [
-            "By using Linear Regression mode",
-            "Study of Fish Data for prediction of their weight",
-            "In this project I have worked on Fish Data for predicting that what will be the weight of Fish by various variables",
-            "Weight of Fish is Numerical, hence I applied Linear Regression",
-            "I worked on this data to find out what are factors affecting the weight of Fish."
+            "Loan Prediction Model by using Logistic Regression Model",
+            "Study of Bank data of customers",
+            "In this Data I had worked whether customers will approved load or not", 
+            "Find out the factors effecting for approval of loan",
+            "Study of Background of Customers for approval of loan", 
+            "And Prepared a model with accuracy of 89%"
         ]
     },
     {
         "title": "Decision Tree Model of Churn Customers",
-        "url": "https://github.com/Souru22/Random-Forest-model-of-Churn-Customers",
-        "github": "https://github.com/Souru22/Random-Forest-model-of-Churn-Customers",
+        "url": "https://github.com/sourabh-hodage/Random-Forest-model-of-Churn-Customers",
+        "github": "https://github.com/sourabh-hodage/Random-Forest-model-of-Churn-Customers",
         "date": "August 2022",
         "technologies": [
             "Python",
@@ -133,8 +134,8 @@ export const PROJECTS = [
     },
     {
         "title": "Music Recommendation System on Spotify",
-        "url": "https://github.com/Souru22/by-using-K-Means-Music-Recommendation-System-on-Spotif-",
-        "github": "https://github.com/Souru22/by-using-K-Means-Music-Recommendation-System-on-Spotif-",
+        "url": "https://github.com/sourabh-hodage/by-using-K-Means-Music-Recommendation-System-on-Spotif-",
+        "github": "https://github.com/sourabh-hodage/by-using-K-Means-Music-Recommendation-System-on-Spotif-",
         "date": "November 2022",
         "technologies": [
             "Python",
