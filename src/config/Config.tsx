@@ -161,6 +161,13 @@ export const PROJECTS = [
 // G
 export const SKILLS = [
     {
+        "title": "Soft Skills ",
+        "skills": [
+            "Problem Solving","Team Work","Decision Making ","Leadership ","Quick Learning Ability"
+
+        ]
+    },
+    {
         "title": "Languages",
         "skills": [
             "Python", "SQL", "C Language"
@@ -171,8 +178,7 @@ export const SKILLS = [
         "skills": [
             "SQL (MS SQL Server) ",
             "Python",
-            "Machine Learning and Deep Learning",
-            "Statistics Fundamentals",
+            "ML & DL",
             "MS Office Tools",
             "Tableau",
             "Power BI"
@@ -184,10 +190,11 @@ export const SKILLS = [
             "Linear Regression", "Logistic Regression",
             "Decision Tree",
             "Random Forest",
-            "SVM", "PCA", "K-Means Clustering",
-            "Pandas", "Numpy", "Scikit-Learn",
-            "Seaborn", "TensorFlow", "Matplot", "NLT"
+            "PCA", "K-Means Clustering",
+            "Pandas", "Numpy",
+            "Seaborn"
 
         ]
     },
+ 
 ]
