@@ -15,7 +15,10 @@ export const Education = () => {
                                     <h3 className="text-lg font-semibold text-gray-650 leading-snugish">
                                         {school.title}
                                     </h3>
-                                    <p className="leading-normal text-md text-gray-550">
+                                    <p className="leading-normal text-md text-gray-700">
+                                     <i>{school.company}</i>   
+                                    </p>
+                                    <p className="leading-normal mx-2 text-md text-gray-550">
                                         {school.date}
                                     </p>
                                 </header>

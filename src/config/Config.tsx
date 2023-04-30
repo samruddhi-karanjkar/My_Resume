@@ -32,7 +32,15 @@ export const CONTACT = [
         "value": "+919260093292",
         "icon": "",
         "margin": "34px"
+    },
+    {
+        "name": "HackerRank",
+        "link": "https://www.hackerrank.com/sourabhhodage",
+        "value": "hackerrank/sourabhhodage",
+        "icon": "",
+        "margin": "5px"
     }
+  
 ]
 
 // C
@@ -57,7 +65,7 @@ export const EXPERIENCE = [
 export const EDUCATION = [
     {
         "title": "Post Graduate Program in Data Analytics",
-        "date": "December 2022",
+        "date": "February 2022",
         "company": "Imarticus Learning,Pune",
         "details": [
             {
@@ -68,7 +76,7 @@ export const EDUCATION = [
     },
     {
         "title": "BTech in Mechanical Engineering",
-        "date": "2022",
+        "date": "June 2022",
         "company": "Rajarambapu Institute of Technology, Islampur",
         "details": [
             {
@@ -86,7 +94,7 @@ export const EDUCATION = [
 // F
 export const PROJECTS = [
     {
-        "title": "Loan Prediction Model by using Logistic Regression Model",
+        "title": "Loan Prediction Model ",
         "url": "https://github.com/sourabh-hodage/Logistic-Regression-Model",
         "github": "https://github.com/sourabh-hodage/Logistic-Regression-Model",
         "date": "June 2022",
@@ -110,7 +118,7 @@ export const PROJECTS = [
         ]
     },
     {
-        "title": "Decision Tree Model of Churn Customers",
+        "title": "Customer Churn Prediction ",
         "url": "https://github.com/sourabh-hodage/Random-Forest-model-of-Churn-Customers",
         "github": "https://github.com/sourabh-hodage/Random-Forest-model-of-Churn-Customers",
         "date": "August 2022",
