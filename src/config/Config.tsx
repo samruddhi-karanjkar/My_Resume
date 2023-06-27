@@ -1,45 +1,38 @@
 // A
-export const NAME = "Sourabh Hodage";
+export const NAME = "Samruddhi Karanjakar";
 export const JOB_TITLE = "Aspiring Data Analyst";
-export const LOCATION = "Gadhinglaj, Maharashtra";
+export const LOCATION = "Islampur, Maharashtra";
 
 // B
 export const CONTACT = [
     {
         "name": "Github",
-        "link": "https://github.com/sourabh-hodage",
-        "value": "github/sourabh-hodage",
+        "link": "https://github.com/samruddhi-karanjkar",
+        "value": "github/samruddhi-karanjkar",
         "icon": "",
         "margin": "32px"
     },
     {
         "name": "Linkedin",
-        "link": "https://www.linkedin.com/in/sourabh-hodage/",
-        "value": "linkedin/sourabh-hodage",
+        "link": "https://www.linkedin.com/in/samruddhi-karanjkar/",
+        "value": "linkedin/samruddhi-karanjkar",
         "icon": "",
         "margin": "22px"
     },
     {
         "name": "Email",
-        "link": "mailto:sshodage3292@gmail.com",
-        "value": "sshodage3292@gmail.com",
+        "link": "mailto:karanjkar0745@gmail.com",
+        "value": "karanjkar0745@gmail.com",
         "icon": "",
         "margin": "40px"
     },
     {
         "name": "Phone",
-        "link": "tel:+919260093292",
-        "value": "+919260093292",
+        "link": "tel:+917620090745",
+        "value": "+917620090745",
         "icon": "",
         "margin": "34px"
     },
-    {
-        "name": "HackerRank",
-        "link": "https://www.hackerrank.com/sourabhhodage",
-        "value": "hackerrank/sourabhhodage",
-        "icon": "",
-        "margin": "5px"
-    }
   
 ]
 
@@ -50,12 +43,12 @@ export const EXPERIENCE = [
     {
         "title": "Internship",
         "date": "Jan 2022 - June 2022",
-        "company": "Technorrithm Engineering Pvt.Ltd",
-        "bullets": ["Designing of Bulk Milk Cooler",
-            "Analysis Field in Products",
-            "Business related visualizations",
-            "Finding Thermodynamic Conditions applied on it.",
-            "Preparing a standard Design which can affordable for customers as well as Small Scale Industries"
+        "company": "Yash Capaciters Pvt.Ltd",
+        "bullets": ["Designing of Capaciters ",
+            "Mainly focus on reducing the rejection rate as well as the complaint rate",
+            "To study capacitor Manufacturing Processes",
+            "To study Fault in Capacitors",
+            "To Study Analyze the system"
         ]
     },
 
@@ -65,7 +58,7 @@ export const EXPERIENCE = [
 export const EDUCATION = [
     {
         "title": "Post Graduate Program in Data Analytics",
-        "date": "February 2022",
+        "date": "May 2023",
         "company": "Imarticus Learning,Pune",
         "details": [
             {
@@ -75,13 +68,13 @@ export const EDUCATION = [
         ]
     },
     {
-        "title": "BTech in Mechanical Engineering",
+        "title": "BTech in Electrical Engineering",
         "date": "June 2022",
         "company": "Rajarambapu Institute of Technology, Islampur",
         "details": [
             {
                 "title": "Grade",
-                "description": "First Class, 6.75 CGPI"
+                "description": "First Class with Distinction, 7.21 CGPI"
             },
         ]
     },
@@ -95,9 +88,9 @@ export const EDUCATION = [
 export const PROJECTS = [
     {
         "title": "Loan Prediction Model ",
-        "url": "https://github.com/sourabh-hodage/Logistic-Regression-Model",
-        "github": "https://github.com/sourabh-hodage/Logistic-Regression-Model",
-        "date": "June 2022",
+        "url": "https://github.com/samruddhi-karanjkar/Loan-Prediction-Model",
+        "github": "https://github.com/samruddhi-karanjkar/Loan-Prediction-Model",
+        "date": "December 2022",
         "technologies": [
             "Python",
             "Machine Learning",
@@ -111,7 +104,7 @@ export const PROJECTS = [
         "specs": [
             "Loan Prediction Model by using Logistic Regression Model",
             "Study of Bank data of customers",
-            "In this Data I had worked whether customers will approved load or not", 
+            "In this Data I had worked whether customers will approved loan or not", 
             "Find out the factors effecting for approval of loan",
             "Study of Background of Customers for approval of loan", 
             "And Prepared a model with accuracy of 89%"
@@ -119,9 +112,9 @@ export const PROJECTS = [
     },
     {
         "title": "Customer Churn Prediction ",
-        "url": "https://github.com/sourabh-hodage/Random-Forest-model-of-Churn-Customers",
-        "github": "https://github.com/sourabh-hodage/Random-Forest-model-of-Churn-Customers",
-        "date": "August 2022",
+        "url": "https://github.com/samruddhi-karanjkar/Analyzing-Churn-Customers",
+        "github": "https://github.com/samruddhi-karanjkar/Analyzing-Churn-Customers",
+        "date": "March 2023",
         "technologies": [
             "Python",
             "Machine Learning",
@@ -139,32 +132,9 @@ export const PROJECTS = [
             "Churn status is classified as Yes or No",
             "I worked on this data to find out what are factors affecting the status for the customers to churn the company"
         ]
-    },
-    {
-        "title": "Music Recommendation System on Spotify",
-        "url": "https://github.com/sourabh-hodage/by-using-K-Means-Music-Recommendation-System-on-Spotif-",
-        "github": "https://github.com/sourabh-hodage/by-using-K-Means-Music-Recommendation-System-on-Spotif-",
-        "date": "November 2022",
-        "technologies": [
-            "Python",
-            "Machine Learning",
-            "visualization",
-            "Pandas",
-            "Numpy",
-            "Seaborn",
-            "Sklearn",
-            "K-Means"
-
-        ],
-        "specs": [
-            "By using K-Means Clustering Model and Euclidian distance method",
-            "Spotify Recommendation Engine for creating playlists based on user behavior",
-            "Non-Negative Matrix Factorization (NFM) For Decomposing Data",
-            "For for predicating the top 5 users and the top 5 songs heard and evaluating it using K-Means clustering"
-        ]
-
     }
 ]
+ 
 
 // G
 export const SKILLS = [
