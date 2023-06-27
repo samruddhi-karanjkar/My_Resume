@@ -39,7 +39,7 @@ export const CONTACT = [
 // C
 export const SUMMARY = "Recent graduate with a strong foundation in data analysis and machine learning from Imarticus Learning. Proficient in SQL, Python (Pandas, NumPy, Seaborn, Matplotlib) and Power BI with a passion for solving real-world problems through data-driven approaches. Seeking a data analyst role where I can apply my skills and continue learning in a dynamic and collaborative environment."
 // D
-export const EXPERIENCE = [
+export const Internship = [
     {
         "title": "Internship",
         "date": "Jan 2022 - June 2022",
@@ -58,7 +58,7 @@ export const EXPERIENCE = [
 export const EDUCATION = [
     {
         "title": "Post Graduate Program in Data Analytics",
-        "date": "May 2023",
+        "date": "July 2023",
         "company": "Imarticus Learning,Pune",
         "details": [
             {
@@ -103,9 +103,7 @@ export const PROJECTS = [
         ],
         "specs": [
             "Loan Prediction Model by using Logistic Regression Model",
-            "Study of Bank data of customers",
             "In this Data I had worked whether customers will approved loan or not", 
-            "Find out the factors effecting for approval of loan",
             "Study of Background of Customers for approval of loan", 
             "And Prepared a model with accuracy of 89%"
         ]
@@ -128,9 +126,30 @@ export const PROJECTS = [
         "specs": [
             "By using Random Forest (Classification) Model",
             "Study of Churn Data for prediction of customer",
-            "In this project I have worked on Churn Data for predicting that customers will churn or not",
-            "Churn status is classified as Yes or No",
             "I worked on this data to find out what are factors affecting the status for the customers to churn the company"
+    
+        ]
+    }
+    {
+        "title": " Fashion-MNIST Image classification",
+        "url": "https://github.com/samruddhi-karanjkar/Analyzing-Churn-Customers",
+        "github": "https://github.com/samruddhi-karanjkar/Analyzing-Churn-Customers",
+        "date": "June 2023",
+        "technologies": [
+            "Python",
+            "Machine Learning",
+            "visualization",
+            "Pandas",
+            "Numpy",
+            "CNN",
+            "Sklearn"
+
+        ],
+        "specs": [
+            "It is the deep learning model using TensorFlow to accurately classify fashion product images.",
+            "By using CNN algorithm, we can classify the fashion product images into different categories.",
+            "prepared a model with 90.79% accuracy"
+    
         ]
     }
 ]
@@ -139,7 +158,7 @@ export const PROJECTS = [
 // G
 export const SKILLS = [
     {
-        "title": "Soft Skills ",
+        "title": "Professional Skills ",
         "skills": [
             "Problem Solving","Team Work","Decision Making ","Leadership ","Quick Learning Ability"
 
