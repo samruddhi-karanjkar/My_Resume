@@ -132,8 +132,8 @@ export const PROJECTS = [
     }
     {
         "title": " Fashion-MNIST Image classification",
-        "url": "https://github.com/samruddhi-karanjkar/Analyzing-Churn-Customers",
-        "github": "https://github.com/samruddhi-karanjkar/Analyzing-Churn-Customers",
+        "url": "https://github.com/samruddhi-karanjkar/Fashion-MNIST-Image-classification/tree/main",
+        "github": "https://github.com/samruddhi-karanjkar/Fashion-MNIST-Image-classification/tree/main",
         "date": "June 2023",
         "technologies": [
             "Python",
