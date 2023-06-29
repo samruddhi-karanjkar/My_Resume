@@ -37,9 +37,9 @@ export const CONTACT = [
 ]
 
 // C
-export const SUMMARY = "Recent graduate with a strong foundation in data analysis and machine learning from Imarticus Learning. Proficient in SQL, Python (Pandas, NumPy, Seaborn, Matplotlib) and Power BI with a passion for solving real-world problems through data-driven approaches. Seeking a data analyst role where I can apply my skills and continue learning in a dynamic and collaborative environment."
+export const SUMMARY = "B.Tech graduate with a strong foundation in data analysis and machine learning from Imarticus Learning. Proficient in SQL,Python, Excel and Power BI with a passion for solving real-world problems through data-driven approaches. Seeking a data analyst role where I can apply my skills and continue learning in a dynamic and collaborative environment."
 // D
-export const Internship = [
+export const EXPERIENCE = [
     {
         "title": "Internship",
         "date": "Jan 2022 - June 2022",
@@ -129,7 +129,7 @@ export const PROJECTS = [
             "I worked on this data to find out what are factors affecting the status for the customers to churn the company"
     
         ]
-    }
+    },
     {
         "title": " Fashion-MNIST Image classification",
         "url": "https://github.com/samruddhi-karanjkar/Fashion-MNIST-Image-classification/tree/main",
@@ -195,3 +195,18 @@ export const SKILLS = [
     },
  
 ]
+
+
+// H
+export const COCUR = [
+    {
+        "title": "Certification of course c and c++ from disha institute. ",
+    },
+    {
+        "title": "Vice President of Electrical Engineering Department",
+    },
+    {
+        "title": "Participated in online Automation workshop of PLC. ",
+    },
+]
+

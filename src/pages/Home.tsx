@@ -5,6 +5,7 @@ import { Experience } from "../components/DExperience"
 import { Education } from "../components/EEduction"
 import { Projects } from "../components/FProjects"
 import { Skills } from "../components/GSkills"
+import { CoCur } from "../components/HCoCurricular"
 
 export const Home = () => {
     return (
@@ -28,6 +29,7 @@ export const Home = () => {
                         {/*Projects -------------------------------------------------------------------------------------------------------*/}
                         <Projects />
                         {/*Begin Skills ---------------------------------------------------------------------------------------------------*/}
+                        <CoCur />
                     </div>
                     {/* end Column */}
                 </div>
